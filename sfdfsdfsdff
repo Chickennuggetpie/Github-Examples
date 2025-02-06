@@ -1,0 +1,651 @@
+[33mcommit 563afa11b7c40d468754b447ba78f3c56c36f46d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Chickennuggetpie <123voo@gmail.com>
+Date:   Thu Feb 6 08:36:18 2025 +0800
+
+    create skeleton readme for git crash course
+
+[33mcommit c13ce5e1090df858ca0b87f5c08e2db7a75c54b0[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Wed May 1 14:15:50 2024 -0400
+
+    sdfadasdfasdfa
+
+[33mcommit ef43b7807f5053c5e5339b5dc5ee00246af4df45[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Wed May 1 14:12:58 2024 -0400
+
+    try the newest version
+
+[33mcommit b2f15ff03bfe7a621be41b8f6d184a3d8e1cf5df[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Wed May 1 14:00:02 2024 -0400
+
+    asddsaasdsda
+
+[33mcommit c0ff2e7fc69c503ba5e0720ca75018e3124691fe[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Wed May 1 13:54:51 2024 -0400
+
+    try new version
+
+[33mcommit 92eaa783c285b95b05189b3189ae9dccb8f31b64[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Wed May 1 13:41:59 2024 -0400
+
+    custom action
+
+[33mcommit 5840c25c0fb689b2296183f90af177120921d0ca[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 20:33:59 2024 +0000
+
+    fdgfggfd
+
+[33mcommit 6a77b613dea0bd2648971a46817b715f509cecd1[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 20:33:55 2024 +0000
+
+    dsffdsfds
+
+[33mcommit b030c3c49ea6b598a246d63d39d09c696cc31361[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 20:33:02 2024 +0000
+
+    secrets examples
+
+[33mcommit 92c27f3215c203bca9203c06e7ee11b047a973f7[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 16:16:27 2024 -0400
+
+    try again without the depends
+
+[33mcommit 805960a04d6a21d08072680ac3da6aa257163966[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 16:15:35 2024 -0400
+
+    jobs workflow example
+
+[33mcommit 64a7b23ba397dd6d31f7b0bd671d0fe7cfdad3b1[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 16:09:44 2024 -0400
+
+    env var in other steps
+
+[33mcommit c78e3137c830044cb2ffb2559d02452d8c19d71a[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 16:08:05 2024 -0400
+
+    workflow commands example
+
+[33mcommit 289412c363d259036cc3b8c7f064e6b6ee036222[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 19:47:53 2024 +0000
+
+    commit self hosted runner
+
+[33mcommit c47d066c82bf4778bbd2c92f2f04319fedfda91f[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 15:22:41 2024 -0400
+
+    runners for macos and windows
+
+[33mcommit eefadb649ba455269891d69bcb2b0afc287f9e39[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 15:13:24 2024 -0400
+
+    expression function
+
+[33mcommit 5ea95e51dd0d66706f85c468e29c075bc0d1ce81[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 15:09:56 2024 -0400
+
+    try and fix expressions
+
+[33mcommit e0db1f2ded380f05096921edb59fcf0bd1b4be30[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 15:08:42 2024 -0400
+
+    dsfddfssfd
+
+[33mcommit e5bc23aa346e0f672ab189846334ed97c1109894[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 15:07:04 2024 -0400
+
+    sdfdfgdfgfgd
+
+[33mcommit 9695e0f88d33da0753e828477c47ce2c5d2d33e1[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 15:06:59 2024 -0400
+
+    expression function example
+
+[33mcommit 424ea08c0726873d201586db613198410298ca4f[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 15:03:16 2024 -0400
+
+    conditional modified
+
+[33mcommit 65b8000ad88a18d45e31de58d5d6c70a7341777f[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 15:02:33 2024 -0400
+
+    conditional
+
+[33mcommit 0db92827c68f34524f694e2bd51dc880ff57177f[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 15:00:27 2024 -0400
+
+    sdffgdgdgs
+
+[33mcommit cfa731dbbb7215047e996a78a3a570f44b5d7b84[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 14:59:50 2024 -0400
+
+    should print the vars
+
+[33mcommit 77c7a6649193f8f377654fb15a074cca35bb4d9b[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 14:58:47 2024 -0400
+
+    another attempt at  contet
+
+[33mcommit fa81f069f199f7af1d7bd4bfd9c260a108e519db[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 14:57:31 2024 -0400
+
+    fix the runner
+
+[33mcommit 233d9281030a5baab7ae478444af6dbd2145e702[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 14:56:02 2024 -0400
+
+    attempt context workflow
+
+[33mcommit e803eacbd54391f2bf19c3c91b528aecfa5c65e1[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 18:29:20 2024 +0000
+
+    this commit should not trigger a deploy
+
+[33mcommit f7d79b93f2386e757bcf4498394faf24eca07665[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 18:27:48 2024 +0000
+
+    make sure we commit this?
+
+[33mcommit 1e11801a75583ef6e23f8d4739d221669e206495[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 18:22:52 2024 +0000
+
+    try again x2
+
+[33mcommit d11b8b155dc3cfb296cc87201a9c6549c5ba65a6[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 18:21:25 2024 +0000
+
+    try again
+
+[33mcommit ac17a3499f852a11368a32f6ea55fec12e9605b1[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 18:18:08 2024 +0000
+
+    fix the syntax
+
+[33mcommit 8b72ced22b499688591489e5afce240741d0f084[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 18:14:38 2024 +0000
+
+    sadsdasda
+
+[33mcommit f69792cf3d9b7b682f67175426eb833719fda18f[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 18:14:23 2024 +0000
+
+    custom webhook
+
+[33mcommit 83c178050d3a45bccf4e1690eaad9e28e86c2c75[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 18:12:42 2024 +0000
+
+    does this trigger?
+
+[33mcommit 0362fee0e24b61d01f68efd26c292accb8698501[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 18:12:01 2024 +0000
+
+    add webhook
+
+[33mcommit 83bfbbb44259270e30a78b35bb7dbdb62f4aca54[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 16:21:09 2024 +0000
+
+    manul workflow
+
+[33mcommit 4b4e4e240fa3e3ad4633fad3d42edbf4f5d3e53b[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 12:01:25 2024 -0400
+
+    multi event template
+
+[33mcommit bd2768930defc46778f2ca036027a1dc1f9b4da2[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Tue Apr 30 11:47:38 2024 -0400
+
+    add schedule workflow
+
+[33mcommit cb0f5ee26aa7fc2ba3fe4b8aaf1e4cf1794ac7d7[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Mon Apr 29 15:48:42 2024 -0400
+
+    move these to save them for later
+
+[33mcommit 51329e1679c4ef36e4173fb55a27d859ec249b6e[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Mon Apr 29 15:42:32 2024 -0400
+
+    Create greetings.yml
+
+[33mcommit 5e2f39a3e073c4a8d701810260348378e766dada[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 15:49:43 2024 -0400
+
+    github release and azure static web apps
+
+[33mcommit da55c23aca4bb016f1599b14afdbc8e158edefa1[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 15:45:10 2024 -0400
+
+    postgres image example
+
+[33mcommit e930620aae20177ab83cc88a37cf4da7f967e18f[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 15:24:55 2024 -0400
+
+    change to npm install since there is no lockfile
+
+[33mcommit 27da7043faa0ea18beec8c354af326c54fa16430[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 15:11:22 2024 -0400
+
+    treat lines as seperate
+
+[33mcommit 506a8c0043f4deea08270d59f55ea14a0e7fd39d[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 15:08:03 2024 -0400
+
+    pg fix
+
+[33mcommit 37c03c9159b2f6cdf713a50e2c97ce592ac8ccf7[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 15:03:56 2024 -0400
+
+    change to node 14 and see if that resolves the issue
+
+[33mcommit f8a421712b2bd839f42708c657cf8fdb65271486[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 14:58:16 2024 -0400
+
+    postgres client container example
+
+[33mcommit d1dbad172584fc9f28e23735d0959dbfb6dc8ca9[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 14:47:35 2024 -0400
+
+    docker-hub
+
+[33mcommit 47772f3c6e27791d764ec09d5815820a6bae98af[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 14:46:32 2024 -0400
+
+    github package
+
+[33mcommit 9e9b968d59c2bc2091f50267771937f5b1748002[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 14:42:38 2024 -0400
+
+    bash script
+
+[33mcommit db93eb2f7e752a88a6f126a0981db36faea2868f[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 14:41:30 2024 -0400
+
+    bash scripts
+
+[33mcommit 47f1a3e00e9e8cb14b31ae06a6331f1c746f811e[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 14:31:40 2024 -0400
+
+    gihub token example, move previous workflows into github actions
+
+[33mcommit c838286d1439c6748b788a8023752bd594d285da[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 14:29:14 2024 -0400
+
+    secrets token
+
+[33mcommit 3068373dfd798e11b008ab1830c4e8e729332e91[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 14:20:45 2024 -0400
+
+    depend job example
+
+[33mcommit 3d397eee264029e126e451563ea8a6f7d36664f2[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 14:15:33 2024 -0400
+
+    minor message
+
+[33mcommit 7803c5bf42af90b885fc5ad9712a9f0a225e5bbb[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 14:12:15 2024 -0400
+
+    self hosted runner example
+
+[33mcommit 00f917d57bd43ea07c00f7c35f54d6402d543df7[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 14:04:10 2024 -0400
+
+    windows
+
+[33mcommit 0d7b3da70a1a59b12921ac1d0fe3b859d0103cac[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 13:57:50 2024 -0400
+
+    try and fix macos
+
+[33mcommit ec6c1abe5c0c45e9b8edb955ee6bd0bcd2c82e2a[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 13:50:36 2024 -0400
+
+    fix syntax error
+
+[33mcommit 6fd3a15ed799317b624aa8169abcc2da94256faf[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 13:48:57 2024 -0400
+
+    macos runner example
+
+[33mcommit 494e898648985c82516595060759f558a25743f2[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 13:18:13 2024 -0400
+
+    expression function example
+
+[33mcommit 409702073069d436dac2225171dc6b38c2dc5317[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 12:58:13 2024 -0400
+
+    fix minor yaml snytax error
+
+[33mcommit e7d3e9a2e46af3889a907e9e2947c2297de19704[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 12:56:45 2024 -0400
+
+    fix repeating job name
+
+[33mcommit 1faba6c543d6c552be24a340b2c9eb4e8f795247[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 12:56:18 2024 -0400
+
+    conditional example
+
+[33mcommit 43e5a3ad9a9e2ff3ff70006df29ccbc82faaca8e[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 12:37:34 2024 -0400
+
+    manual and webhook example
+
+[33mcommit c45088abb5ee0617154d701a9346e69c1843ca42[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 12:12:22 2024 -0400
+
+    change format of step dramtically to try and fix
+
+[33mcommit c001eae67d72dadde4a077be48409ff27bd358c7[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 12:10:14 2024 -0400
+
+    unique names for step names
+
+[33mcommit e3cbd27ade3a1f99c0f4b884af2324140fef4ae1[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 12:08:56 2024 -0400
+
+    change to be two lines
+
+[33mcommit 59b17a37b38708f9a474440a004fcd2e8bba82ba[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 12:04:26 2024 -0400
+
+    change push syntax
+
+[33mcommit bb8d69d542a2c5d0951ca6fb862c3f7279c86716[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 11:56:58 2024 -0400
+
+    fix
+
+[33mcommit e2ab4df535f3a3579dd4b0ca598573d5d912e190[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 11:55:57 2024 -0400
+
+    multi-event
+
+[33mcommit bd0c6e05ee1a428dc4338d1220c6a69305befeda[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 11:45:57 2024 -0400
+
+    ddd
+
+[33mcommit df966f7c41c6fd8617172432020d95f162a07f2a[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 11:45:50 2024 -0400
+
+    rename workflow
+
+[33mcommit 69c86e77a26b5cacbc24e31dc1e81f14e3ab0020[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 11:45:08 2024 -0400
+
+    schedule file
+
+[33mcommit cf5ea062bb7505478307facd4266e2115545f076[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Apr 28 11:35:06 2024 -0400
+
+    Create main.yml
+
+[33mcommit 8f86e480ba82e13a32bcb81c73277021eda4ae96[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Mon Jan 15 14:28:33 2024 -0500
+
+    Update issue templates
+
+[33mcommit f190859dc906d8b7cbc9e9c83e527e2414afd13c[m
+Merge: a250097 06e4dfd
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Mon Jan 15 14:22:10 2024 -0500
+
+    Merge pull request #6 from andrew-wc-brown/main
+    
+    update
+
+[33mcommit 06e4dfdd2834aa494d1c51d7f65b27d796e20f82[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Mon Jan 15 14:19:57 2024 -0500
+
+    add issue template
+
+[33mcommit 5fa4605970f5f376258fdae50d7bec5deac2779d[m
+Merge: 53a011d fd89234
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Mon Jan 15 13:54:45 2024 -0500
+
+    Merge pull request #8 from andrew-wc-brown/number-test
+    
+    Update hello
+
+[33mcommit fd8923465bd53f6a280b75f76e6d7ab20c8fcc9c[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Mon Jan 15 13:51:45 2024 -0500
+
+    Update hello
+
+[33mcommit 53a011decb4182c093d0133113b96527bdc9ac0a[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Mon Jan 15 11:44:01 2024 -0500
+
+    Update Readme.md
+
+[33mcommit 0a60a42e8d7088356c315e784fac6fbb01a34f45[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Mon Jan 15 11:39:41 2024 -0500
+
+    markdown examples
+
+[33mcommit edc14ba7f9dc5e84820ad67c19c56563e71be828[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Mon Jan 15 11:26:17 2024 -0500
+
+    Create Readme.md
+
+[33mcommit a25009746ec5a992eb28291c7cb4c65cbe31ddd9[m
+Merge: 4ab1057 fe0332b
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Jan 14 15:50:07 2024 -0500
+
+    Merge pull request #4 from andrew-wc-brown/main
+    
+    SDKs
+
+[33mcommit fe0332bb438780aaa4263f5a6d9fee35f9aeb58c[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 20:49:11 2024 +0000
+
+    sdk
+
+[33mcommit 44a954cb1d00e6fe256249ad69a1743b7947445d[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 20:46:44 2024 +0000
+
+    add the igniroe
+
+[33mcommit 3a652b86905ca4e7888f4898e1b6f5d957b2c926[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 20:08:08 2024 +0000
+
+    install terraform cli
+
+[33mcommit 4ab1057ba8e738ec6e8122bc08e0450830200927[m
+Merge: 2aa376d 7f7305f
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Jan 14 14:50:24 2024 -0500
+
+    Merge pull request #3 from andrew-wc-brown/main
+    
+    basic instructions for ssh
+
+[33mcommit 7f7305f42e089cba64150ec6d1ac69ae4505e207[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 19:49:48 2024 +0000
+
+    basic instructions for ssh
+
+[33mcommit 2aa376d4b87fc8e3a93cf56ef3b1f78d4e22c056[m
+Merge: 6fbdff5 63606c0
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Jan 14 14:38:52 2024 -0500
+
+    Merge pull request #2 from andrew-wc-brown/main
+    
+    fix dev container
+
+[33mcommit 63606c0737f6db1dd1b873106f6488cbadd2f881[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 19:20:11 2024 +0000
+
+    dont change remote user
+
+[33mcommit 378bc0d3b71219d41678c80ff0342723c6f9588f[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 19:10:53 2024 +0000
+
+    it should install the Github CLI
+
+[33mcommit 6fbdff5d0a62697d94e49d7b7a31c1feb86b3467[m
+Merge: 0fd2c68 75c3e3b
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Jan 14 12:57:10 2024 -0500
+
+    Merge pull request #1 from andrew-wc-brown/main
+    
+    Documentation for Git Crash Course
+
+[33mcommit 75c3e3b4c2909db50a5e0764f4d4b046e00d250d[m
+Merge: 0a6b6d4 ba2663f
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 12:55:18 2024 -0500
+
+    Merge pull request #1 from andrew-wc-brown/dev
+    
+    Dev
+
+[33mcommit ba2663f5bcb11af05b41bb2b68c479d65545a65a[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 17:53:45 2024 +0000
+
+    minor update
+
+[33mcommit dfffff635074dd1f08f0ec0603fc8e9b540ffc3b[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 17:50:09 2024 +0000
+
+    remove dockerfile we dont want to build a ruby env
+
+[33mcommit f65effe8eb0bed606217ebc3773b8960ca57b42e[m
+Merge: 5230504 0a6b6d4
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 17:48:18 2024 +0000
+
+    Merge branch 'main' into dev
+
+[33mcommit 523050469fd1315be7d51e492f37f64b0ca49f98[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 17:36:05 2024 +0000
+
+    changes
+
+[33mcommit 0a6b6d46f9607e2dc77d2bdecdb3c0116053f02d[m
+Author: Andrew Brown <andrew@exampro.co>
+Date:   Sun Jan 14 12:33:18 2024 -0500
+
+    github cli way
+
+[33mcommit d87a1ec9835c5770977b54af4c859e00735c6181[m
+Author: Andrew Brown <andrew@exampro.co>
+Date:   Sun Jan 14 12:09:51 2024 -0500
+
+    update ssh way
+
+[33mcommit 8047cbaa6b10e0cf7213008100d8408e9440cf65[m
+Author: Andrew Brown <andrew@exampro.co>
+Date:   Sun Jan 14 12:05:16 2024 -0500
+
+    update
+
+[33mcommit ffc29abe78c2e9bf09ba413d7e833210eacc1e87[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 16:56:56 2024 +0000
+
+    add hello file
+
+[33mcommit fcd9a285ac4df600adc3685235e15010025ed375[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 11:26:34 2024 -0500
+
+    create skeleton readme for git crash course
+
+[33mcommit 0fd2c6844910fd90b9fb45dfe725b5fb5e67bef6[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Jan 14 10:13:10 2024 -0500
+
+    Initial commit
